@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning cyber security.
 - 🌱 I am just an ordinary student & offensive security researcher & hacker, and what I have learned basically comes from the information security community and my own research.
 - <img src="https://app.hackthebox.com/images/HTB-favicon/favicon.ico" width=23 heigh=23 /> HackTheBox badge:  
-  ![Arrexel](https://github.com/javelin266/javelin266/assets/76693577/89d23dd6-be7f-4fad-98d2-361fa7cc1429)
+  ![Arrexel](https://www.hackthebox.com/badge/image/1208967)
 
 
 
